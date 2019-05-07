@@ -1,0 +1,6 @@
+#To train
+python3 train.py 
+
+#To predict with image path or image name
+python3 predict.py berry.jpg
+
